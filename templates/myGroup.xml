@@ -1,0 +1,7 @@
+<templateSet group="myGroup">
+  <template name="&lt;abbreviation&gt;" value="/**&#10;&#10; *@描述 &#10;&#10; *@参数  $params$&#10;&#10; *@返回值  $return$&#10;&#10; *@创建人  chenjie&#10;&#10; *@创建时间  $date$&#10;&#10; *@修改人和其它信息&#10;&#10; */" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
