@@ -1,0 +1,6 @@
+<templateSet group="ColdFusion">
+  <template name="a." value="application.$VAR$" description="Insert variable with application scope prefix" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="&quot;var&quot;" defaultValue="&quot;var&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
