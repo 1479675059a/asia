@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="根据编号删除节点" />
       <item value="根据编号修改节点" />
       <item value="修改" />
       <item value="编号修改节点" />
@@ -39,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
