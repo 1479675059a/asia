@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单链表反转" />
       <item value=" 线程池" />
       <item value="消费" />
       <item value="包子" />
@@ -50,12 +51,11 @@
       <item value="发送" />
       <item value="递归" />
       <item value="Distinct" />
-      <item value="Injection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
