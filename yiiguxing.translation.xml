@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="静态方法" />
       <item value="类的实例化" />
       <item value="lecture" />
       <item value="lectrue" />
@@ -50,12 +51,11 @@
       <item value="算法" />
       <item value="基础建设" />
       <item value="Engine" />
-      <item value="Build completed successfully in 8 s 240 ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="59" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
