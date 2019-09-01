@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assertion" />
+      <item value="Assert" />
       <item value="线程工厂" />
       <item value="类与类之间的关系" />
       <item value="调用这个常量的方法" />
@@ -49,13 +51,11 @@
       <item value="转换" />
       <item value="列" />
       <item value="行" />
-      <item value="二维数组" />
-      <item value="稀疏数组" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
