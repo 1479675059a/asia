@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调用这个常量的方法" />
+      <item value="myParent static block" />
       <item value="倒数" />
       <item value="place " />
       <item value="静态方法" />
@@ -49,13 +51,11 @@
       <item value="稀疏数组" />
       <item value="设计原则" />
       <item value="设计模式" />
-      <item value="算法" />
-      <item value="基础建设" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="61" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
