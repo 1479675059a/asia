@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="倒数" />
       <item value="place " />
       <item value="静态方法" />
       <item value="类的实例化" />
@@ -18,7 +19,6 @@
       <item value="等待唤醒机制" />
       <item value="线程状态" />
       <item value="查找" />
-      <item value="倒数" />
       <item value="有效" />
       <item value="卖票" />
       <item value="同步" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="60" />
         <entry key="FRENCH" value="1" />
       </map>
