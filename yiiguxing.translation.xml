@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reference" />
       <item value="前一个" />
       <item value="栈溢出" />
       <item value="Assertion" />
@@ -50,12 +51,11 @@
       <item value="空" />
       <item value="数组队列" />
       <item value="transform" />
-      <item value="转换" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
