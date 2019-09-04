@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="圆" />
+      <item value="单向环形链表" />
       <item value="工厂模式" />
       <item value="reference" />
       <item value="前一个" />
@@ -45,17 +47,15 @@
       <item value="单链表" />
       <item value="正则表达式" />
       <item value="棋盘" />
-      <item value="圆" />
       <item value="//环形数组队列" />
       <item value="//环形队列" />
       <item value="空白" />
       <item value="空" />
-      <item value="数组队列" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="69" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
