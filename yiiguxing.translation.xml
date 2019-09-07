@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设计模式" />
+      <item value="单例模式" />
       <item value="后缀表达式" />
       <item value="bootstrap" />
       <item value="交通工具" />
@@ -49,13 +51,11 @@
       <item value="编号修改节点" />
       <item value="顺序添加节点" />
       <item value="显示链表" />
-      <item value="添加节点" />
-      <item value="单链表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="77" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
