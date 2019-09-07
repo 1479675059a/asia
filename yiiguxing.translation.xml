@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="中缀转后缀" />
       <item value="设计模式" />
       <item value="单例模式" />
       <item value="后缀表达式" />
@@ -50,12 +51,11 @@
       <item value="修改" />
       <item value="编号修改节点" />
       <item value="顺序添加节点" />
-      <item value="显示链表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="78" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
