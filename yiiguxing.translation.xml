@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Metaspace" />
       <item value="迷宫问题" />
       <item value="工厂" />
       <item value="VM hardcoded the offset of this field, thus all new fields" />
@@ -50,12 +51,11 @@
       <item value="同步" />
       <item value="线程安全" />
       <item value="线程的创建方式" />
-      <item value="多线程" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
